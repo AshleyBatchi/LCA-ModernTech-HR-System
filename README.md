@@ -17,8 +17,8 @@ ModernTech Solutions HR System is an enterprise full-stack Human Resource Manage
 
 ## Prerequisites
 * Node.js and npm installed.
-* MySQL service running specifically on port **3307**.
-* Environment variables configured via `.env` files.
+* MySQL running specifically on port **3307**.
+* A `.env` file inside `backend/` and `frontend/`.
 
 ## Environment Variables
 Inside `backend/.env`:
